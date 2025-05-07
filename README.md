@@ -123,7 +123,7 @@ This app is built to **learn and demonstrate** how a call identification applica
 
 ## 📥 Download APK
 
-👉 **[Download the Latest Version (.APK)](https://github.com/jester-sys/TrueCallerApp/)**
+👉 **[Download the Latest Version (.APK)](https://github.com/jester-sys/TrueCallerApp/releases/download/v1.0.0/app-debug.apk)**
 
 > Click the link above to download and install the latest release of the app directly to your Android phone. Make sure you allow installation from unknown sources in your device settings.
 
