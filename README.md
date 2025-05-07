@@ -117,3 +117,14 @@ This app is built to **learn and demonstrate** how a call identification applica
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/truecaller-clone-android.git
+
+
+---
+
+## 📥 Download APK
+
+👉 **[Download the Latest Version (.APK)](https://github.com/yourusername/truecaller-clone-android/releases/latest)**
+
+> Click the link above to download and install the latest release of the app directly to your Android phone. Make sure you allow installation from unknown sources in your device settings.
+
+---
