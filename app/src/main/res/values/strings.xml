@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Caller Identity</string>
+    <string name="truecaller_user_agent">Truecaller/14.16.6 (Android;14)</string>
+    <string name="api_key" tools:ignore="TypographyDashes">a2i0_--oVzLG9V5kWi_LFcrDqrYFKsYzwka0VoP2vc3ke8eFgB9MT6ysb7NCUpls</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="general_header">General</string>
+    <string name="block_all_spammers_summary_off">Not all spam calls will be blocked</string>
+    <string name="block_all_spammers_summary_on">All spam calls are blocked</string>
+    <string name="block_all_spammers_title">Block all scam calls</string>
+    <string name="block_top_spammers_title">Block high risk spam calls</string>
+    <string name="block_top_spammers_summary_on">Top spam calls are blocked</string>
+    <string name="spam_calls_header">Scam Calls</string>
+    <string name="incoming_calls_header">Incoming Calls</string>
+    <string name="floating_dialog_header">Floating Dialog</string>
+    <string name="block_top_spammers_summary_off">Block top spam calls</string>
+    <string name="floating_window_incoming_title">Popup notification (Incoming calls)</string>
+    <string name="floating_window_incoming_summary_on">Popup notification will be shown for all incoming calls.</string>
+    <string name="floating_window_incoming_summary_off">Popup notification will only appear for incoming calls from unknown numbers not saved in contacts.</string>
+    <string name="floating_window_outgoing_title">Popup notification (Outgoing calls)</string>
+    <string name="floating_window_outgoing_summary_on">A popup notification will appear for outgoing calls to numbers not saved in contacts.</string>
+    <string name="floating_window_outgoing_summary_off">No popup notification will appear for outgoing calls.</string>
+    <string name="floating_window_header">Floating Window</string>
+    <string name="reject_all_incoming_calls_summary_on">All incoming calls will be rejected even from your contact numbers.</string>
+    <string name="reject_all_incoming_calls_summary_off">All incoming calls are allowed.</string>
+    <string name="reject_all_incoming_calls_title">Reject all incoming calls</string>
+    <string name="reject_unknown_incoming_calls_summary_on">All unknown incoming calls will be rejected.</string>
+    <string name="reject_unknown_incoming_calls_summary_off">All calls are allowed.</string>
+    <string name="reject_unknown_incoming_calls_title">Reject unknown calls</string>
+    <string name="settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="search_number">Search number…</string>
+    <string name="search_activity_title">Number Lookup</string>
+    <string name="today_call_logs_header">Today</string>
+    <string name="yesterday_call_logs_header">Yesterday</string>
+    <string name="older_call_logs_header">Older</string>
+    <string name="app_description_short">Caller Identity offers efficient caller ID and spam blocking via Truecaller\'s API.</string>
+</resources>

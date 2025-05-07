@@ -1,0 +1,51 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/spam_calls_header">
+
+        <SwitchPreferenceCompat
+            app:key="block_all_spammers"
+            app:summaryOff="@string/block_all_spammers_summary_off"
+            app:summaryOn="@string/block_all_spammers_summary_on"
+            app:title="@string/block_all_spammers_title" />
+
+        <SwitchPreferenceCompat
+            app:key="block_top_spammers"
+            app:summaryOn="@string/block_top_spammers_summary_on"
+            app:summaryOff="@string/block_top_spammers_summary_off"
+            app:title="@string/block_top_spammers_title" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/floating_window_header">
+
+        <SwitchPreferenceCompat
+            app:key="is_incoming_floating_allowed_for_contacts_too"
+            app:summaryOn="@string/floating_window_incoming_summary_on"
+            app:summaryOff="@string/floating_window_incoming_summary_off"
+            app:title="@string/floating_window_incoming_title" />
+
+        <SwitchPreferenceCompat
+            app:key="is_outgoing_floating_allowed_for_unknown_numbers"
+            app:summaryOn="@string/floating_window_outgoing_summary_on"
+            app:summaryOff="@string/floating_window_outgoing_summary_off"
+            app:title="@string/floating_window_outgoing_title" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/incoming_calls_header">
+
+        <SwitchPreferenceCompat
+            app:key="reject_all_incoming_calls"
+            app:summaryOn="@string/reject_all_incoming_calls_summary_on"
+            app:summaryOff="@string/reject_all_incoming_calls_summary_off"
+            app:title="@string/reject_all_incoming_calls_title" />
+
+        <SwitchPreferenceCompat
+            app:key="reject_unknown_incoming_calls"
+            app:summaryOn="@string/reject_unknown_incoming_calls_summary_on"
+            app:summaryOff="@string/reject_unknown_incoming_calls_summary_off"
+            app:title="@string/reject_unknown_incoming_calls_title" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

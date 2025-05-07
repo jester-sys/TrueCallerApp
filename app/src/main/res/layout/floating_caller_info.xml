@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zorro.dimyon.calleridentity.helpers.SwipeDismissLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background_normal_floating_caller_info"
+    tools:ignore="HardcodedText"
+    android:id="@+id/floatingCallerInfoMainLayout"
+    android:padding="15dp">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/callerProfileIV"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:contentDescription="Profile DP"
+        android:src="@drawable/verified_user_24"
+        android:background="@color/white"
+        app:shapeAppearanceOverlay="@style/CircleImageViewStyle"
+        android:adjustViewBounds="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_toEndOf="@+id/callerProfileIV"
+        android:paddingHorizontal="15dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/callerNameTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Benojir Sultana"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:shadowColor="@color/black"
+            android:textAlignment="textStart"
+            android:textSize="20sp"
+            android:maxLines="2" />
+
+        <TextView
+            android:id="@+id/callerAddressTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Ahmedabad, India"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            tools:ignore="TextContrastCheck" />
+
+    </LinearLayout>
+
+</zorro.dimyon.calleridentity.helpers.SwipeDismissLayout>

@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CallerIdentity" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/theme_color_light</item>
+        <item name="colorAccent">@color/theme_color_light</item>
+        <item name="textColor">@color/black</item>
+    </style>
+
+    <style name="Theme.CallerIdentity" parent="Base.Theme.CallerIdentity" />
+
+    <style name="CustomToolbarTitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="fontFamily">@font/brandy</item>
+    </style>
+
+    <style name="CircleImageViewStyle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
