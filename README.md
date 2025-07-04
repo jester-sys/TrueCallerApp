@@ -97,7 +97,7 @@ A powerful **TrueCaller Clone** Android application that detects incoming/outgoi
 
 
 <img src="https://github.com/user-attachments/assets/3eb3fa01-c08c-49bf-8a73-dfc29b2282af" width="100"/> <img src="https://github.com/user-attachments/assets/64155d0f-c566-4e23-b095-cbfc0710d924" width="100"/>
-<img src="https://github.com/user-attachments/assets/81299adf-258a-4cf2-824c-6ab1f6e7e6c6" width="100"/> <img src="https://github.com/user-attachments/assets/9c5c9427-7986-46b9-9a8b-a8a1603ae90c" width="100"/>
+<img src="https://github.com/user-attachments/assets/aade009c-b959-4694-9632-dfcfd8556861" width="100"/> <img src="https://github.com/user-attachments/assets/9c5c9427-7986-46b9-9a8b-a8a1603ae90c" width="100"/>
  <img src="https://github.com/user-attachments/assets/a209eae7-88eb-41e0-9abb-10992efb62de" width="100"/><img src="https://github.com/user-attachments/assets/47facec9-e078-499b-bda9-ff7c88c2885a" width="100"/> <img src="https://github.com/user-attachments/assets/6e320c84-e9b7-44ae-a15c-d2cf79059e33" width="100"/>
 
 | Incoming Call Screen | Caller Info Popup | Settings Page |
